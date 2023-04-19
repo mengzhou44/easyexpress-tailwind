@@ -35,7 +35,7 @@ export default function Home() {
         <div className='container flex flex-col px-4 mx-auto space-y-12 md:space-y-0 md:flex-row'>
           <div className='flex flex-col space-y-12 md:w-1/2'>
             <h1 className='max-w-md text-4xl font-bold text-center md:text-left'>
-              What's different about Manage?
+              What is different about Manage?
             </h1>
             <p className='max-w-sm text-center text-darkGrayishBlue md:text-left'>
               Manage makes it simple for software teams to plan day-to-day tasks
@@ -75,7 +75,7 @@ export default function Home() {
       <section id='testimonials'>
         <div className='max-w-6xl px-5 mx-auto mt-32 text-center'>
           <h2 className='text-4xl font-bold text-center'>
-            What's Different About Manage?
+            Testimonials
           </h2>
 
           <div className='flex flex-col mt-24 md:flex-row md:space-x-6'>
@@ -158,7 +158,7 @@ export default function Home() {
               </a>
 
               <a href='#'>
-                <img src='img/icon-twitter.svg' alt='' className='h-8'  width={37} height={32} />
+                <Image src='img/icon-twitter.svg' alt='' className='h-8'  width={37} height={32} />
               </a>
 
               <a href='#'>
